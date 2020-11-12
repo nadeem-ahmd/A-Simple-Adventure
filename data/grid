@@ -1,0 +1,12 @@
+E,Ghost,0,1
+E,Zombie,0,4
+E,Ghost,0,5
+F,Medicine,1,4
+F,Apple,2,0
+W,Sword,3,6
+W,Staff,4,4
+E,Zombie,5,3
+D,Book,5,7
+E,Ghost,5,9
+P,6,1
+E,Zombie,9,8
