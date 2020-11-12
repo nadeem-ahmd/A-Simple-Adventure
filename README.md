@@ -14,4 +14,4 @@ Player saves are stored in the 'data' folder:
 
 # Demo
 
-![1](https://i.imgur.com/aUCfTka.png)
+![1](https://i.imgur.com/aXYV1eD.png)
